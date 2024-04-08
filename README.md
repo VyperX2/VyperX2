@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://mateen-dev.netlify.app/](https://mateen-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mateen-dev-ten.vercel.app/](https://mateen-dev-ten.vercel.app/)
 
 - 📫 How to reach me **mateenahmed.qatar@gmail.com**
 
